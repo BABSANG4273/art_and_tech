@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000; /* 남는 여백을 검은색으로 */
+}
+
+canvas {
+  display: block;
+}
